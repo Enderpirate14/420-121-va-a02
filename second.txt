@@ -2,3 +2,4 @@ Second file
 crazyyyyyyy
 
 I added a line with 2 
+I added a line with 3
